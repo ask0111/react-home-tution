@@ -7,7 +7,6 @@ const HomePage = () => {
         <>
            <Navbar /> 
            <div className='width-100 h-96'></div>
-           <div className='width-100 h-96'></div>
            <Footer />
         </>
     );
